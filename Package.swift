@@ -6,7 +6,7 @@ let package = Package(
     name: "WeScan",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v12)
+        .iOS(.v14)
     ],
     products: [
         // dev .library(name: "DangerDeps", type: .dynamic, targets: ["DangerDependencies"]), // dev
